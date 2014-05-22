@@ -1,0 +1,7 @@
+# TODO: B2D2T
+# TODO: use remote machine (with ssh-server running) as a source
+# TODO: check the login to the remote
+# TODO: usage of remote file set
+# TODO: Compression
+# TODO: ssh
+# TODO: move old backups to tapes
