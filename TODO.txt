@@ -3,5 +3,12 @@
 # TODO: check the login to the remote
 # TODO: usage of remote file set
 # TODO: Compression
-# TODO: ssh
 # TODO: move old backups to tapes
+# TODO: use Zenity for a simple UI
+
+
+Done: merge ssh funktionality
+git remote add fustundag https://github.com/fustundag/rsync-time-backup.git
+git fetch
+git fetch fustundag
+git merge fustundag/master
